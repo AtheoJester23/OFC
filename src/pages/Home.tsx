@@ -6,7 +6,10 @@ const Home = () => {
         <header>
             <Navbar/>
         </header>
-      <p>testing</p>
+        
+        <section>
+          <input type="file" />
+        </section>
     </main>
   )
 }
